@@ -1,0 +1,3 @@
+include ':libPgcPlayer'
+include ':app'
+rootProject.name = "pgcDemo"
