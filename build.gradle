@@ -16,6 +16,11 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven { url 'https://jitpack.io' }
+        maven {
+            url  "https://raw.githubusercontent.com/jiangqunke/pgcdemo/master"
+        }
+
     }
 }
 
